@@ -1,1 +1,3 @@
 # Project-Library
+Focus:...
+This project is not responsive
