@@ -1,0 +1,8 @@
+Functionality:
+Each book displayed on their own card
+Add a “New Book” button form dialogs:
+   author, title, number of pages, whether it’s been read and picture of book
+Add a button on each book to remove it
+Add a button on each book to change it's READ status: Status: read (in green), not read (in red) - it's a button to toggle
+
+BONUS: search bar
